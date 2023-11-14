@@ -6,7 +6,7 @@ public class Fine {
 
     private Member member;
     private Book book;
-    private Float amount;
+    private Double amount;
     private int days;
     private Date createdDate;
 
