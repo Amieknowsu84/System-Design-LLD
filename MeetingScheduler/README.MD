@@ -1,4 +1,4 @@
-model.Meeting scheduler is an application where organiser can schedule a meeting in available meeting rooms and can add participants to join that
+Meeting scheduler is an application where organiser can schedule a meeting in available meeting rooms and can add participants to join that
 meeting at given timeframe and at a meetingRoom. System will send notification to all participants and organiser about meeting invite.
 Participant can accept and reject meeting invitation. System will send notification to organiser if participant will reject/accept meeting invitation.
 ================================
